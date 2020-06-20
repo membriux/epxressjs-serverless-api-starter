@@ -27,4 +27,4 @@ Follow [GitHub's](github.com) steps on creating a repository and adding code to 
 
 ### 3. Go to Heroku Dashboard -> sign in -> create app, and deploy using Github
 
-![deploy](https://imgur.com/cwNu54F.gif)
+GIF: https://imgur.com/cwNu54F.gif
