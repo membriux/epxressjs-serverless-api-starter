@@ -6,13 +6,18 @@ const app = express();
 // Automatically allow cross-origin requests
 app.options('*', cors());
 
+// Add your database connections here (i.e. AWS, Firebase, Parse, MongoDB, etc)
+
+
 // API Endpoints
 app.get('/', (req, res) => {
-    return res.send('We are just getting started!!!')
+    return res.send(JSON.stringify({
+        'fruits' : ['apple', 'banana', 'orange']
+    }))
 });
 
 
 // No need to modify this for Heroku deployment
 app.listen(process.env.PORT || 3000, function() {
-    console.log('server running on port 3000', '');
+    console.log('App running on \nlocalhost:3000', '');
 });
