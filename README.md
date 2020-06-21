@@ -25,6 +25,10 @@ Install packages from package.json necessary to run API App:
 Follow [GitHub's](github.com) steps on creating a repository and adding code to it:
 - [How to create a GitHub repo](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-new-repository)
 
-### 3. Go to Heroku Dashboard -> sign in -> create app, and deploy using Github
+### 3. Deploy your Serverless API App
 
-GIF: https://imgur.com/cwNu54F.gif
+Feel free to use whichever company you like (AWS, Google, Microsoft Azure, IBM Cloud, etc.). In the example below, I used Heroku.
+
+**(Optional) Go to Heroku Dashboard -> sign in -> create app, and deploy using Github**
+
+GIF to deploy on Heroku: https://imgur.com/cwNu54F.gif
