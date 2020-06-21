@@ -1,5 +1,5 @@
 
-# Express JS API App on Heroku (Starter)
+# Express JS Serverless API Starter Project
 
 API Starter project for Heroku. This short tutorial contains the necessary files and dependencies necessary to setup API app using Express JS and from there you create your API call endpoints using your favorite/custom database.
 
