@@ -7,7 +7,8 @@ API Starter project for Heroku. This short tutorial contains the necessary files
 
 ### 0. Clone this project
 
-![Clone project](https://i.imgur.com/5SWUvMs.png)
+![Clone Project](https://i.imgur.com/p1JBn0M.png)
+
 
 
 ### 1. Install Node Modules
