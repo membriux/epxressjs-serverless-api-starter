@@ -6,7 +6,7 @@ const app = express();
 // Automatically allow cross-origin requests
 app.options('*', cors());
 
-// Add your database connections here (i.e. AWS, Firebase, Parse, MongoDB, etc)
+// Add your database connections here (i.e. AWS, Firebase, Parse, etc)
 
 
 // API Endpoints
