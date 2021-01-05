@@ -10,7 +10,7 @@ app.options('*', cors());
 
 
 // API Endpoints
-app.get('/', (req, res) => {
+app.get('api/fruits', (req, res) => {
     return res.send(JSON.stringify({
         'fruits' : ['apple', 'banana', 'orange']
     }))
